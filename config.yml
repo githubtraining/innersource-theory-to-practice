@@ -1,0 +1,28 @@
+title: 'InnerSource: theory to practice'
+description: >-
+  Learn about the concept of InnerSource and put it to use in this carefully
+  crafted learning path.
+steps:
+  - link: 'https://resources.github.com/whitepapers/introduction-to-innersource/'
+    title: An introduction to InnerSource
+    description: >-
+      A GitHub whitepaper that defines InnerSource, deep dives into the theory,
+      and provides sensible steps to get started.
+  - course: innersource-fundamentals
+    description: >-
+      High level yet impactful InnerSource concepts to help transform your
+      organization.
+  - link: 'https://gist.github.com/githubteacher/9fe53687a5f173d1d64c24c68625349e'
+    title: Case studies
+    description: >-
+      A list of first-order resources and case studies from real organizations
+      that have implemented InnerSource practices.
+  - link: 'https://gist.github.com/githubteacher/3055abd3344c7947881f118d02279949'
+    title: Picking InnerSource projects
+    description: >-
+      Example projects that will help you determine candidates for trying
+      InnerSource practices.
+  - course: introduction-to-github
+    description: 'An introduction to the simplest possible workflow: GitHub Flow.'
+  - course: create-a-release-based-workflow
+    description: Learn and practice a workflow based around creating releases on GitHub.
