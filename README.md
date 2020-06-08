@@ -2,7 +2,7 @@
 
 <h1 align="center">Course: InnerSource: theory to practice</h1>
 
-This repository powers the Learning Lab course [_InnerSource: theory to practice_](https://lab.github.com/githubtraining/innersource:-theory-to-practice). 
+This repository powers the Learning Path [_InnerSource: theory to practice_](https://lab.github.com/githubtraining/innersource:-theory-to-practice). 
 
 ## Contribute
 
