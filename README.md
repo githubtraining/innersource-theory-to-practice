@@ -1,6 +1,6 @@
 <p align="center"><a href="https://lab.github.com/"><img alt="Learning Lab bot" src="https://user-images.githubusercontent.com/16547949/62085817-83232580-b22a-11e9-8693-7c54205b04e5.png"></a></p>
 
-<h1 align="center">Course: InnerSource: theory to practice</h1>
+<h1 align="center">Learning Path: InnerSource: theory to practice</h1>
 
 This repository powers the Learning Path [_InnerSource: theory to practice_](https://lab.github.com/githubtraining/innersource:-theory-to-practice). 
 
@@ -12,6 +12,6 @@ We :heart: our community and take great care to ensure it is fun, safe and rewar
 
 ## License
 
-All Learning Lab course repositories are licensed under [CC-BY-4.0](../LICENSE) (c) 2019 GitHub, Inc. The template repositories associated with each course may have different licenses.
+All Learning Lab learning path repositories are licensed under [CC-BY-4.0](../LICENSE) (c) 2020 GitHub, Inc. The template repositories associated with each course may have different licenses.
 
 When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos)
